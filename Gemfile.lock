@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.0.3)
+    rb-fsevent (0.9.3)
+    simple_uuid (0.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  rb-fsevent (~> 0.9.1)
+  simple_uuid
